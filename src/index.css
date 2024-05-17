@@ -1,0 +1,19 @@
+.maindiv {
+  width: 100%;
+}
+.child {
+  width: 80%;
+}
+.login {
+  display: flex;
+  justify-content: center;
+}
+.d-block {
+  display: block;
+}
+.d-flex {
+  display: flex;
+}
+.jc {
+  justify-content: center;
+}
